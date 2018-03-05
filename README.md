@@ -156,9 +156,9 @@ If you like Tequila, consider [buying me a beer](https://www.paypal.com/cgi-bin/
 
 
 [logo]: ../graphics/logo.png?raw=true
-[downloads]: https://pypip.in/d/tequila/badge.svg
-[python_versions]: https://pypip.in/py_versions/tequila/badge.svg
-[license]: https://pypip.in/license/tequila/badge.svg
+[downloads]: https://img.shields.io/pypi/dm/tequila.svg
+[python_versions]: https://img.shields.io/pypi/pyversions/tequila.svg
+[license]: https://img.shields.io/pypi/l/tequila.svg
 
 [pypi]: https://pypi.python.org/pypi/tequila/
 [python]: https://www.python.org/
